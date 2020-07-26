@@ -20,18 +20,12 @@ To initialize your environment:
 
 ## Getting Started
 
-    $ gethub authorize
+    $ yarn start
 
-This asks you where you want to clone your repositories as well
-as creating an OAuth token for future GitHub requests.
+Now the Express server has started and is ready to receive API requests.
+Now let's call the API from a very simple HTML file.
 
-The next time you run a `gethub`, all of your new repositories
-will be cloned and your existing repositories will be fetched.
-
-It's useful if you have a lot of repos and may not have an
-internet connection.
-
-Never leave home without running `gethub`.
+Launch the "index.html" file and let's push the `GET`, `POST`, `PUT`, `DELETE` button to call it.
 
 ## Directory Structure
 
@@ -53,30 +47,3 @@ It's opinionated about how you organize your repositories.
 Basically, your repositories will be name-spaced according
 to who the owner is on GitHub.
 
-## Behind the Curtain
-
-    $ gethub
-
-1. Checks to see if the necessary requirements for `gethub` exist,
-like it's `~/.gethubconfig` file.
-2. Makes sure the path to your repositories looks ok.
-3. Clones any repositories that are missing.
-4. Runs `git fetch` in repositories that exist.
-
-## Configuration
-
-Configuration is stored in a `.gethubconfig` file in your home directory.
-(`~/.gethubconfig`)
-
-### Ignored Repositories
-
-Sometimes you don't want to retrieve that gigantic project that
-someone committed `.mov` files to.
-
-    [ignores]
-    repo: icloud, facebook, pearkes/bootstrap
-    owner: adobe
-
-## Contributing
-
-Check out the [contributing guide](CONTRIBUTING.md).
