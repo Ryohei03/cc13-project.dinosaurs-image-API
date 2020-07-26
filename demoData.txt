@@ -1,0 +1,74 @@
+1.GET
+"name": "Tyrannosaurus",
+"name": "Utahraptor",
+"name": "Carnotaurus",
+"name": "Brachiosaurus",
+"name": "Edmontosaurus",
+
+2.DELETE
+"name": "Edmontosaurus",
+
+3.GET
+"name": "Edmontosaurus",
+
+4.POST
+"name": "Edmontosaurus",
+"URL": "https://images.unsplash.com/photo-1577680659932-c41452f00b47"
+
+5.GET
+"name": "Edmontosaurus",
+
+
+6.PUT
+"name": "Edmontosaurus",
+"URL": "https://images.unsplash.com/photo-1570288685369-f7305163d0e3"
+
+7.GET
+"name": "Edmontosaurus",
+
+
+
+
+
+*****[Refer]
+"name": "Tyrannosaurus",
+"URL": "https://images.unsplash.com/photo-1525877442103-5ddb2089b2bb"
+
+
+"name": "Utahraptor",
+"URL": "https://images.unsplash.com/photo-1559999127-b8b7f927dab8"
+
+
+"name": "Carnotaurus",
+"URL": "https://images.unsplash.com/photo-1516159899510-1780534a6977"
+
+
+"name": "Brachiosaurus",
+"URL": "https://images.unsplash.com/photo-1583144006017-74800d22ed08"
+
+
+"name": "Edmontosaurus",
+"URL": "https://images.unsplash.com/photo-1577680659932-c41452f00b47"
+
+
+
+
+"name": "Tyrannosaurus",
+"URL": "https://images.unsplash.com/photo-1525877442103-5ddb2089b2bb?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60"
+
+
+"name": "Utahraptor",
+"URL": "https://images.unsplash.com/photo-1559999127-b8b7f927dab8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+
+
+"name": "Carnotaurus",
+"URL": "https://images.unsplash.com/photo-1516159899510-1780534a6977?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+
+
+"name": "Brachiosaurus",
+"URL": "https://images.unsplash.com/photo-1583144006017-74800d22ed08?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+
+
+"name": "Edmontosaurus",
+"URL": "https://images.unsplash.com/photo-1577680659932-c41452f00b47?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+

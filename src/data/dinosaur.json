@@ -1,0 +1,24 @@
+{
+  "dinosaur": [
+    {
+      "name": "Tyrannosaurus",
+      "URL": "https://images.unsplash.com/photo-1525877442103-5ddb2089b2bb"
+    },
+    {
+      "name": "Utahraptor",
+      "URL": "https://images.unsplash.com/photo-1559999127-b8b7f927dab8"
+    },
+    {
+      "name": "Carnotaurus",
+      "URL": "https://images.unsplash.com/photo-1516159899510-1780534a6977"
+    },
+    {
+      "name": "Brachiosaurus",
+      "URL": "https://images.unsplash.com/photo-1583144006017-74800d22ed08"
+    },
+    {
+      "name": "Edmontosaurus",
+      "URL": "https://images.unsplash.com/photo-1577680659932-c41452f00b47"
+    }
+  ]
+}
