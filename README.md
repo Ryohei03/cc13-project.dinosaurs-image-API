@@ -27,23 +27,4 @@ Now let's call the API from a very simple HTML file.
 
 Launch the "index.html" file and let's push the `GET`, `POST`, `PUT`, `DELETE` button to call it.
 
-## Directory Structure
-
-It's opinionated about how you organize your repositories.
-
-    ├── pearkes
-    │   ├── gethub
-    │   ├── tugboat
-    │   └── jack.ly
-    ├── mitchellh
-    │   └── vagrant
-    ├── amadeus
-    │   └── html7
-    ├── someorg
-    │   └── bigproject
-    └── someotherorg
-        └── biggerproject
-
-Basically, your repositories will be name-spaced according
-to who the owner is on GitHub.
 
