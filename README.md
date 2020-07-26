@@ -1,12 +1,11 @@
-# gethub
+# schleich-API
 
-![](https://f.cloud.github.com/assets/846194/628861/8090cb46-d104-11e2-84eb-7878aa9057d0.gif)
 
 ## Overview
-[![Build Status](https://api.travis-ci.org/pearkes/get.png?branch=master)](https://travis-ci.org/pearkes/gethub)
 
-`gethub` helps you keep all of your git repositories that have GitHub
-remotes up to date.
+`dinosaur's-image-API` helps you have a child who loves dinosaurs. You just enter dinosaur's name
+ then their images will be showing off.
+
 
 ## Installation
 
@@ -51,18 +50,18 @@ Never leave home without running `gethub`.
 
 It's opinionated about how you organize your repositories.
 
-    „¥„Ÿ„Ÿ pearkes
-    „    „¥„Ÿ„Ÿ gethub
-    „    „¥„Ÿ„Ÿ tugboat
-    „    „¤„Ÿ„Ÿ jack.ly
-    „¥„Ÿ„Ÿ mitchellh
-    „    „¤„Ÿ„Ÿ vagrant
-    „¥„Ÿ„Ÿ amadeus
-    „    „¤„Ÿ„Ÿ html7
-    „¥„Ÿ„Ÿ someorg
-    „    „¤„Ÿ„Ÿ bigproject
-    „¤„Ÿ„Ÿ someotherorg
-        „¤„Ÿ„Ÿ biggerproject
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ pearkes
+    ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ gethub
+    ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ tugboat
+    ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ jack.ly
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ mitchellh
+    ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ vagrant
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ amadeus
+    ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ html7
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ someorg
+    ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ bigproject
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ someotherorg
+        ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ biggerproject
 
 Basically, your repositories will be name-spaced according
 to who the owner is on GitHub.
