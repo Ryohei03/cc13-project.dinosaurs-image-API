@@ -1,4 +1,4 @@
-# schleich-API
+# dinosaur's-image-API
 
 
 ## Overview
@@ -8,28 +8,15 @@
 
 
 ## Installation
+The environment is assumed that "node.js" and "postgreSQL" have already been installed.
 
-You can download a binary, `deb` or `exe`, depending on your platform.
+You can download a library.
 
-- darwin/386: [[binary](http://gethub.jack.ly/0.1.3/darwin_386/gethub_0.1.3_darwin_386.zip)]
-- darwin/amd64: [[binary](http://gethub.jack.ly/0.1.3/darwin_amd64/gethub_0.1.3_darwin_amd64.zip)]
-- linux/386: [[deb](http://gethub.jack.ly/0.1.3/linux_386/gethub_0.1.3_i386.deb)] [[binary](http://gethub.jack.ly/0.1.3/linux_386/gethub_0.1.3_linux_386.tar.gz)]
-- linux/amd64: [[deb](http://gethub.jack.ly/0.1.3/linux_amd64/gethub_0.1.3_amd64.deb)] [[binary](http://gethub.jack.ly/0.1.3/linux_amd64/gethub_0.1.3_linux_amd64.tar.gz)]
-- linux/arm: [[deb](http://gethub.jack.ly/0.1.3/linux_arm/gethub_0.1.3_armel.deb)] [[binary](http://gethub.jack.ly/0.1.3/linux_arm/gethub_0.1.3_linux_arm.tar.gz)]
-- windows/386: [[exe](http://gethub.jack.ly/0.1.3/windows_386/gethub_0.1.3_windows_386.zip)]
-- windows/amd64: [[exe](http://gethub.jack.ly/0.1.3/windows_amd64/gethub_0.1.3_windows_amd64.zip)]
+To initialize your environment:
 
-To determine your platform:
+    $ yarn
 
-    uname -sm
 
-On Darwin, you can copy the binary to your bin:
-
-    cp ~/path/to/gethub /usr/local/bin/
-
-Or, if you have [Go](http://golang.org/) installed:
-
-    go install github.com/pearkes/gethub
 
 ## Getting Started
 
