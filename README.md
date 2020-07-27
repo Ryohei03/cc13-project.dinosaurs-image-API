@@ -27,9 +27,9 @@ Now let's call the API from a very simple HTML file.
 
 Launch the "index.html" file and let's push the `GET`, `POST`, `PUT`, `DELETE` button to call it.
 
-API Endpoints are
-## 
+API Endpoints are  
+
 `GET`: `http://localhost:3000/api/dinosaursimageAPI/:Name`
-`POST`: $ http://localhost:3000/api/dinosaursimageAPI/:Name
+`POST`: `http://localhost:3000/api/dinosaursimageAPI/`
 `PUT`: $ http://localhost:3000/api/dinosaursimageAPI/:Name
 `DELETE`: $ http://localhost:3000/api/dinosaursimageAPI/:Name
