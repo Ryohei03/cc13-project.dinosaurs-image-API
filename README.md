@@ -29,7 +29,13 @@ Launch the "index.html" file and let's push the `GET`, `POST`, `PUT`, `DELETE` b
 
 API Endpoints are  
 
-`GET`: `http://localhost:3000/api/dinosaursimageAPI/:Name`
-`POST`: `http://localhost:3000/api/dinosaursimageAPI/`
-`PUT`: $ http://localhost:3000/api/dinosaursimageAPI/:Name
-`DELETE`: $ http://localhost:3000/api/dinosaursimageAPI/:Name
+`GET`: `http://localhost:3000/api/dinosaursimageAPI/:Name`  
+
+
+`POST`: `http://localhost:3000/api/dinosaursimageAPI/`  
+
+
+`PUT`: `http://localhost:3000/api/dinosaursimageAPI/:Name`  
+
+
+`DELETE`: `http://localhost:3000/api/dinosaursimageAPI/:Name`
